@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Grok Voice",
+      "hasCanvas": true,
+      "bodyTextLen": 176,
+      "bodyTextHash": "72a7763bfcfe62d6ab88d9f5fc7cb2f83df397d8e393970e4b61ef51a2bd9543",
+      "bodyTextPrefix": "VOICE Grok Auto Talk to Grok Tap the orb to start a live convers",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Grok Voice",
+      "hasCanvas": true,
+      "bodyTextLen": 176,
+      "bodyTextHash": "72a7763bfcfe62d6ab88d9f5fc7cb2f83df397d8e393970e4b61ef51a2bd9543",
+      "bodyTextPrefix": "VOICE Grok Auto Talk to Grok Tap the orb to start a live convers",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

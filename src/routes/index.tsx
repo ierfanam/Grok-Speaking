@@ -1,8 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
-import { VoiceApp } from "@/components/voice/voice-app";
+import { createFileRoute } from '@tanstack/react-router'
+import { Home } from '@/components/home'
 
-export const Route = createFileRoute("/")({ component: Home });
-
-function Home() {
-  return <VoiceApp />;
-}
+export const Route = createFileRoute('/')({ component: Home })
